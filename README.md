@@ -68,7 +68,7 @@ This project requires *Visual Studio* and the *.NET Framework (or .NET Core/5+ i
 
 ## ✍ Author
 
-This game was developed by *Noor fatima*.
+This game was developed by Imtishal Abid
 
 ## ⚖ License
 
